@@ -17,3 +17,15 @@
   <img align="center" height=40 src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" />
   <img align="center" height=40 src="https://img.shields.io/badge/Lua-darkblue?logo=lua&logoColor=white" />
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
