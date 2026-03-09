@@ -5,7 +5,7 @@
 
 <div align="center"> <br>
   <a href=[https://github.com/ErichJohann](https://www.linkedin.com/in/ErichJohann/)>
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=ErichJohann&show_icons=true&theme=tokyonight" /> 
+  <!--<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=ErichJohann&show_icons=true&theme=tokyonight" />--> 
   <!--<img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErichJohann&layout=compact&theme=tokyonight" />-->
 </div> <br>
 <div style='display: inline_block' align="center">
