@@ -15,6 +15,7 @@
   <img align="center" height=40 src="https://img.shields.io/badge/C++-blue" />
   <img align="center" height=40 src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" />
   <img align="center" height=40 src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" />
+  <img align="center" height="40" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img align="center" height=40 src="https://img.shields.io/badge/Lua-darkblue?logo=lua&logoColor=white" />
 </div>
 
